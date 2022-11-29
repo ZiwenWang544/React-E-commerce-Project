@@ -1,0 +1,34 @@
+{
+ "ProductsItem": [
+    {
+        "id":   1,
+        "name": "Bokks",
+        "price": 11,
+        "imgUrl": "../../imgs/bokks.png"
+    },
+    {
+        "id":   2,
+        "name": "Geets",
+        "price": 12,
+        "imgUrl": "../../imgs/geets.png"
+    },
+    {
+        "id":   3,
+        "name": "Lokky",
+        "price": 99,
+        "imgUrl": "../../imgs/lokky.png"
+    },
+    {
+        "id":   4,
+        "name": "Yellow",
+        "price": 13,
+        "imgUrl": "../../imgs/yellow.png"
+    },
+    {
+        "id":   5,
+        "name": "Gaat",
+        "price": 54,
+        "imgUrl": "../../imgs/gaat.gif"
+    }
+]
+}
